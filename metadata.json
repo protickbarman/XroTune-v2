@@ -1,0 +1,6 @@
+{
+  "name": "XroTune",
+  "description": "Stream songs and manage local playlists with modern Android UI, background playback, and local .xrotune profile & settings sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
